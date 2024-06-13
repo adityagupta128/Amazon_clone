@@ -22,4 +22,5 @@ This project is a static front-end clone of the Amazon website. It includes key 
 
 1. **Clone the repository:**
    ```bash
+   https://github.com/adityagupta128/Amazon_clone.git
    
